@@ -1,5 +1,5 @@
 1.4.2 Stupid Architectural Simulator Explanation
-
+================================================
 This program gets two random values from memory and add them.
 Then by calling the rand() function we load the random values
 from memory and put them inside the array of chars DM[] and 
