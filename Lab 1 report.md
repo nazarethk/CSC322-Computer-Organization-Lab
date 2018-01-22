@@ -1,4 +1,4 @@
-=============
+
 Lab 1: Report
 =============
 During lab 1, we started learning the basic concepts of C. 
