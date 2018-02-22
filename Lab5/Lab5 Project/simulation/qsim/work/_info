@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/Lab5/simulation/qsim
+vCO
+!s110 1519215940
+!i10b 1
+!s100 bKii;QOOkMzXX`P_WoakE1
+IY9WN@Lo>7GXbbbLa6Z<5I2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1519215936
+8CO.vo
+FCO.vo
+L0 31
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1519215940.000000
+!s107 CO.vo|
+!s90 -work|work|CO.vo|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@c@o
+vCO_vlg_vec_tst
+!s110 1519215941
+!i10b 1
+!s100 [dKT[N<MT6IngH3<MmfWM3
+I`USdDZL_zL6mXMURnS>P?2
+R1
+R0
+w1519215933
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R2
+r1
+!s85 0
+31
+R3
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R4
+R5
+n@c@o_vlg_vec_tst

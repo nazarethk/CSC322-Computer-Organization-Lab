@@ -1,0 +1,28 @@
+# do CO.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:25:40 on Feb 21,2018
+# vlog -work work CO.vo 
+# -- Compiling module CO
+# 
+# Top level modules:
+# 	CO
+# End time: 14:25:40 on Feb 21,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:25:40 on Feb 21,2018
+# vlog -work work Waveform.vwf.vt 
+# -- Compiling module CO_vlg_vec_tst
+# 
+# Top level modules:
+# 	CO_vlg_vec_tst
+# End time: 14:25:41 on Feb 21,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.CO_vlg_vec_tst 
+# Start time: 14:25:42 on Feb 21,2018
+# Loading work.CO_vlg_vec_tst
+# Loading work.CO
+# after#23
+# ** Note: $finish    : Waveform.vwf.vt(58)
+#    Time: 10 us  Iteration: 0  Instance: /CO_vlg_vec_tst
+# End time: 14:25:43 on Feb 21,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
